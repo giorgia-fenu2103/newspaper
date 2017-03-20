@@ -1,0 +1,46 @@
+header {
+	font-size: 80px;
+	text-transform: uppercase;
+	font-weight: bold;
+}
+body {
+	font-family: helvetica;
+}
+.avion {
+	max-width: 100%;
+}
+.content {
+	column-count: 4;
+	margin-top: 48px;
+	font-size: 12px;
+	padding-bottom: 12px 
+}
+.imagename {
+	font-size: 11px;
+	padding-bottom: 12px 
+}
+.head {
+	border-top: 2px solid #000;
+	border-bottom: 2px solid #000;
+	text-align: center;
+	position: relative;
+}
+.ola {
+	max-width: 100%;
+}
+.subhead {
+	font-style: italic;
+	font-weight: oblique;
+	font-size: 24px;
+	padding: 0px 0 6px 0;
+}
+.subhead2 {
+	border-bottom: 1px solid #000;
+	text-transform: uppercase;
+	padding: 0px 0 12px 0;
+	margin-bottom: 12px;
+	text-align: center;
+	position: relative;
+	font-weight: bold;
+	font-size: 14px;
+}
